@@ -1,6 +1,6 @@
 ################################################################################
 # getAllVolumes.sh
-# Get a list of all block volumes used in OCI instance
+# Get a list of all block volumes used in OCI tenancy
 # 12-NOV-2024  vseeram  Created
 ################################################################################
 #!/bin/bash
